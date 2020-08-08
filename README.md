@@ -24,12 +24,13 @@ Info on the satellites:
   * Width: 37.5Khz
 
 * NOAA-15
-  * Broadcase: 137.62Mhz
+  * Broadcast: 137.62Mhz
   * Width: 37.5Khz
 
 Tools needed:
   * HackRF
   * Dipole Antenna Kit
+  * Computer
   
 Software used:
   * Cubic-SDR
