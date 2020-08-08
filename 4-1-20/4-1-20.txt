@@ -1,0 +1,28 @@
+4-1-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 70W
+LONG 85W
+Appear at: 18:43:26
+UTC Time: 22:43:26
+Duration: 11:49
+
+Antenna Direction: South (V Direction)
+Antenna Size: 53cm
+Antenna Type: Dipole
+Height: 4ft + 
+Angle: 120
+
+Notes:
+Clear day today, should be a good pic, stailite is looking good, boys are with
+me today, so there wont be much recording i guess
+
+Antenna is on top of a ladder on a broomstick on a peice of PVC pipe that was a 
+marshmellow launcher, quite the arangement lmao. TBD what happens
+
+Post:
+Amazing! we got really clear signals most of the time! there were just random times 
+where all of the sudden a huge burst of something would cause there to be alot of 
+static, and im yet to figure out if its raido(microwave?) or my cables/polarization
+Ill play with it some more tonight

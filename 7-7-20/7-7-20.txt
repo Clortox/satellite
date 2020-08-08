@@ -1,0 +1,24 @@
+7-7-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 87W
+LONG 82E
+Appear at: 18:30:35
+UTC Time: 22:30:35
+Duration: 11:30
+
+Antenna Direction: Variable (V direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: Variable
+Angle: 120
+bandwidth: 40.5khz
+
+Notes:
+Today we went to keyser park, was pretty clear and was able to get a good flyby. We walked around, therefore its hard to put a
+consistent direction on the antenna.
+Great recording! listen ~5mins in for good ticking
+
+Post:
+Great, little disapointed with the quality however. Excepted better results given the low horizion. Might just be the quality of my dipole

@@ -1,0 +1,58 @@
+3-26-20
+
+NOAA-19 (137.1Mhz)
+DIR ?
+MEL ?
+LONG ?
+Appear at: ~16:31:00
+UTC Time: ~20:31:00
+Duration: ~8:00
+
+Antenna Direction: South
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: 144cm
+Angle: 120
+
+Tuned in at 137.1mhz
+bandwidth: 40.5 khz
+
+Notes:
+The satilite should be nearly overead, i hope that doesnt mess with it, WXtoImg doesnt 
+know this flyby exists 
+i guess, for this flyby the antenna's V will be facing south. I also measured antenna 
+length from the center of 
+the dipole
+
+minuites before I am now realizing just how low on the horizion this flyby will be
+oops i guess?
+
+Post:
+max elavation of ~8 degrees, this one is a lost cause
+WXToImg didnt record anything, so there wont be any files for this flyby attached
+
+================================================================================================================
+
+NOAA-19 (137.1mhz)
+DIR N
+MEL 66E
+LONG 78W
+Appear at: 18:13:01
+UTC Time: 22:13:01
+Duration: 11:42
+
+Antenna Direction: South (V pole facing)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: 
+Angle: 120
+
+Tuned in at 137.1mhz
+bandwidth: 40.5khz
+
+Notes:
+This one is a decent length of time overhead, and this time I taped the antenna to the top of a ladder that is
+leaning on a shed
+
+Post:
+Dad told me it was gonna rain, and im not risking my computer. Guess were waiting for tommorow's pass

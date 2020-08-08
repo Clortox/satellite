@@ -1,0 +1,31 @@
+3-25-20
+
+NOAA-19 (137.1Mhz)
+DIR N
+MEL 84E
+LONG 81 W
+Appear at: 18:22:43
+UTC Time: 22:22:43
+Duration: 15:41
+
+Antenna Direction: North (V pole facing)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: 144cm
+Angle: 120
+
+Tuned in at: 137.1mhz
+bandwidth: 40.5khz
+
+Notes:
+The satilite, acording to the tracker, will be flying directly overheard, but for this run the antenna will 
+always be north. I'm gonna do this for consistency
+
+Post:
+All I got was just static. there was a consistent, yet small signal at exactly 138mhz, but i dont think it was 
+noaa, as dopler shift wouldnt do it that much. the azimuth changed dramatically thorughout, so it could just be 
+that it was too far off, directionally
+it also appeared that there was ALOT of noise going on, so much that it seemed impossible the satilite was
+even there.
+Attached in the folder is 3-25-20-noaa19, showing the difference in signal strength on the waterfall in the 
+137 neighborhood, along with a recording and image

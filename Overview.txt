@@ -1,0 +1,29 @@
+Created: 3-25-20
+Project Overview
+
+For this project, Ill be trying to get info off different satilites
+
+Sat list:
+NOAA-19 (137.1mhz)
+	width: 37.5khz
+	protocol: apt
+	sound: clock like ticks
+
+NOAA-15 (137.62mhz)
+	width: 37.5khz
+	protocol: apt
+	sound: clock like ticks
+
+Tools:
+HackRF
+Dipole antenna
+measuring tape
+ladder
+
+Software:
+Cubic-SDR
+WXtoImg
+
+BaseStation:
+Home (Cuyahoga Falls)
+~1024m

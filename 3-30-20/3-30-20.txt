@@ -1,0 +1,28 @@
+3-30-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 27E
+LONG 67W
+Appear at: 17:27:22
+UTC Time: 21:27:22
+Duration 10:01
+
+Antenna Direction: South
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height:
+Angle: 120
+
+Tuned in at 137.1mhz
+bandwidth 40.5khz
+
+Notes:
+Cold today, but prepped early, should be a good one
+Today is very raido quiet, Im excited!
+5;29:22 i changed the tuning to 127.097 to account of dopler shift
+
+Post:
+definitly saw it, but it wasnt clear, i will edit the audio, see the original audio at ~6:05 for example
+Theres no image, and i cant seem to pull it out more, however i would consider this attempt a defintie 
+proof of concept! I think the best next variable is height? we'll have to see

@@ -1,0 +1,58 @@
+4-2-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 87W
+LONG 82E
+Appear at: 18:31:42
+UTC Time: 22:31:42
+Duration: 11:52
+
+Antenna Direction: South (V direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height:
+Angle: 120
+bandwidth:40.5khz
+
+Notes:
+Another clear day today, were gonna do the same thing we did yesterday, but just tweak
+the antenna some what. Not sure how im gonna do that, might start by lowering it down 
+today
+
+6:37(~6mins in) bandwidth down to 40khz
+
+Post:
+Another great flyby! Images are pretty acurate to the real thing, see the image titled
+real to get an idea of what real coverage was. I plan on going out again to catch
+noaa15 later tonight
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+NOAA-15(137.62mhz)
+DIR N
+MEL 72W
+LONG 84W
+Appear at: 20:11:27
+UTC Time: 00:11:27
+Duration: 11:19
+
+Antenna Direction: South (V direction)
+Antenna Size: 51cm each
+Antenna Type: Dipole
+Height:
+Angle: 120
+bandwidth: 40khz
+
+Notes:
+This is the second run of the day, excited to see what we get! This is the first time
+I've ever tried noaa15 compared to noaa19 so this might be different, but shouldnt be
+Im keeping all variables consistent to last run because Im just assuming the variable
+here is the satilite
+
+Struggled alot to get it setup, but now its working flawlessly
+
+Post:
+This was not a good run at all, alot of toruble getting the antenna started.
+Once it got going though it was fine, it just really struggled to get going. Images
+were not great, very blurry overall

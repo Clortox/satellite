@@ -1,0 +1,23 @@
+3-27-20
+
+NOAA-19 (137.1mhz)
+DIR N
+MEL 52E
+LONG 75W
+Appear at: 18:01:29
+UTC time: 22:01:29
+Duration: 11:28
+
+Antenna Direction: South
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height:
+Angle: 120
+
+Tuned in at 137.1mhz
+bandwidth: 40.5khz
+
+Notes: This one will be attached the ladder, hopefully this one will go well
+
+Post:
+didnt run this one, scheduled to rain

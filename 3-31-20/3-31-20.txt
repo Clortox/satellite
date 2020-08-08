@@ -1,0 +1,31 @@
+3-31-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 54W
+LONG 88W
+Appear at: 18:55:15
+UTC Time: 22:55:15
+Duration: 11:37
+
+Antenna Direction: South (V direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: ~213cm
+Angle: 120
+
+Tuned in at 137.1mhz
+bandwidth 40.5khz
+
+Notes:
+We're switching to the one before, so were gonna be going out much later. Today im 
+hoping there wont be any rain, but no promises. I think ill also try to setup the 
+really tall antenna using a broom pole and the ladder
+
+The antenna is now on the really tall pole, its just a matter of waiting at this point.
+Its almost 7ft tall and it is daunting. Definitly not above the shed next to it but hopefully what bounces off the roof ill be able to get
+
+Post:
+This was a definite sucess! you can hear the clicks very clearly if you listen to the
+audio file, check after the 4min mark for clear times, at ~6mins in you can even hear
+clock tick tock! I need to rig this up better i think, put more tension on the cable cause thats creating alot of noise

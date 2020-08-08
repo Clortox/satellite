@@ -1,0 +1,23 @@
+8-7-2020
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 84W
+LONG 82W
+Appear at: 18:54:33
+UTC Time: 22:54:33
+Duration: 11:52
+
+Antenna Direction: Variable (V Direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: Variable
+Angle: ~120
+Bandwidth: 40.5khz
+
+Notes:
+At grandmas for this run, first time here and im not very confident in this run. Well see I guess
+
+Post:
+Wonderful sucess! the images came out very clear this run, im very very happy with it. Check the folder for more details.
+The good audio started around ~4:00 in, but stayed for a very long time
