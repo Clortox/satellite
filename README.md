@@ -1,4 +1,4 @@
-# satellite
+# Satellite
 
 This is me attempting to rip images off of the satellites NOAA-19 and NOAA-15
 
