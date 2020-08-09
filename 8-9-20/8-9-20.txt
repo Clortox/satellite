@@ -1,0 +1,23 @@
+8-9-20
+
+NOAA-19(137.1mhz)
+DIR N
+MEL 62E
+LONG 77W
+Appear at: 18:31:14
+UTC Time: 22:31:14
+Duration: 11:41
+
+Antenna Direction: 45 NE(V Direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: ~160cm
+Antenna Angle: 120
+Bandwidth: 40.05khz
+
+Notes:
+Today I set it up on top of the tripod, so we have alot more height. hoping for a good one today
+
+Post:
+There were quite a few bad interuptions to the signal, and was just a matter of turning the antenna around a bit till it came back,
+but it would just runaway right after. I think this is and equipment issue. But beyond that it was a pretty good run
