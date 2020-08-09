@@ -1,0 +1,23 @@
+8-8-20
+
+NOAA-15(137.62mhz)
+DIR N
+MEL 68 E
+LONG 78 W
+Appear at: 19:50:51
+UTC Time: 23:50:51
+Duration: 11:13
+
+Antenna Direction: 45 NE (V Direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: 106cm
+Angle: ~120
+Bandwidth: 40.5khz
+
+Notes:
+Mounted it to the side of the porch today, It did very well yesterday in on spot, so i figure today will be no different
+
+Post:
+For some reason my software didnt save the images, but they werent very great to begin with. Mounting to the side of the porch was
+not the best idea. From now on I plan on sticking to the pvc pipe handle, and angling accordingly
