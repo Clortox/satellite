@@ -27,6 +27,11 @@ Info on the satellites:
   * Broadcast: 137.62Mhz
   * Width: 37.5Khz
 
+* METOR M2
+  * Broadcase: 137.1Mhz
+  * Width: 150khz
+
+
 Tools needed:
   * HackRF
   * Dipole Antenna Kit
