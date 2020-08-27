@@ -8,11 +8,11 @@ All recordings of the flybys can be found in the `.wav` files. The satellite is 
 
 Here are some sample images:
 
-Most recent attempt (8-7-2020)(with state lines drawn)
-![noaa-19-8-7-20-w-states](/8-7-20/noaa-19-08072254-norm.jpg)
+One of my best attempts (8-25-2020)(with state lines drawn)
+![noaa-19-8-7-20-w-states](/8-25-20/noaa-19-08252244-hvct.jpg)
 
-Most recent attempt (8-7-2020)
-![noaa-19-8-7-20](/8-7-20/noaa-19-08072254-pris.jpg)
+Raw Image (8-25-2020)
+![noaa-19-8-25-20-raw](/8-25-20/noaa-19-08252244-pris.jpg)
 
 First attempt (3-25-2020)
 ![noaa-19-3-25-20](/3-25-20/3-25-20-noaa19.png)
