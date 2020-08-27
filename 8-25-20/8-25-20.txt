@@ -1,0 +1,23 @@
+8-25-20
+
+NOAA-19(137.1Mhz)
+DIR N
+MEL 77E
+LONG 79W
+Appear at 18:44:53
+UTC Time: 22:44:53
+Duration 11:53
+
+Antenna Direction 45 NE(V Direction)
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: ~160cm
+Antenna Angle: 120
+Bandwidth 40.5khz
+
+Notes:
+Nothing noteable about today. Ill be using the Tripod again for this pass
+
+Post:
+Decent images, was relativly uninterrupted. The tripod has helped alot in consistency. Check the folder for the
+full set. I think this will be the largest block of actual image I've ever gotten

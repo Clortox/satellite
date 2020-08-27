@@ -1,0 +1,23 @@
+8-24-20
+
+METEOR M2(137.1mhz)
+Azm(Start): 154.5
+Azm(End): 350.9
+Elv(Max): 60.2
+Appear at: 00:25:00
+UTC Time: 04:25:00
+Duration: 15:33
+
+Antenna Direction: 154
+Antenna Size: 53cm each
+Antenna Type: Dipole
+Height: ~160cm
+Antenna Angle: 120
+Bandwidth: 150khz
+
+Notes:
+This will be my first time trying to do a meteor flyby. Ill be using the tripod setup for this one. Its past midnight so Ill be trying
+to stay quiet as I do this. I've never used this software either, so Im not sure how well itll save
+
+Post:
+Didnt see anything, however this was a software issue
