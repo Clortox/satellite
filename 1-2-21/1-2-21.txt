@@ -1,0 +1,18 @@
+1-2-21
+
+NOAA-19(137.1Mhz)
+DIR NA
+MEL NA
+LONG NA
+Appear at: NA
+UTC Time: NA
+Duration: NA
+
+Antenna Direction: South (V Direction)
+Antenna Size: 53cm
+Antenna Type: Dipole
+Height: 4ft+
+Angle: 120
+
+Notes:
+This was the first try in a long time for me, I did this at my new place using my raspberry pi and needless to say it didnt work out to well. I am using gnu radio now and i dont think ive figured out how to use it to well quite yet. I seemed to be able to get slightly better quality at the price of more noise when turning up the gain settings but thats about it. I am not writing this report till 2 hours after the fact, therefore I dont have the data on the pass on hand anymore. From now on however I will be using gpredict and therefore will have better data on my passes with images. I will most likely try this again tommorow.
